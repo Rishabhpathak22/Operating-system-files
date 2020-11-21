@@ -1,2 +1,1 @@
-# Pthread
-#FCFS
+This is OS program collection
